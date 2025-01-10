@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Litemir_CouseWork_DataBase_Postgres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad911564da2f062b46a8777fa08b8cd704b0d3d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8854c8fde405be44d0e16134975df19fd17b0c15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Litemir_CouseWork_DataBase_Postgres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Litemir_CouseWork_DataBase_Postgres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

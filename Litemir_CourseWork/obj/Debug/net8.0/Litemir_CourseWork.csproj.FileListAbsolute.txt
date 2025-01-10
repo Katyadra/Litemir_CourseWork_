@@ -155,3 +155,4 @@ D:\Gamedev\Litemir_CourseWork_\Litemir_CourseWork\obj\Debug\net8.0\refint\Litemi
 D:\Gamedev\Litemir_CourseWork_\Litemir_CourseWork\obj\Debug\net8.0\Litemir_CourseWork.pdb
 D:\Gamedev\Litemir_CourseWork_\Litemir_CourseWork\obj\Debug\net8.0\Litemir_CourseWork.genruntimeconfig.cache
 D:\Gamedev\Litemir_CourseWork_\Litemir_CourseWork\obj\Debug\net8.0\ref\Litemir_CourseWork.dll
+D:\Gamedev\Litemir_CourseWork_\Litemir_CourseWork\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

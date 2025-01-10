@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ys2gP/9JwDLiuAN8hQecCtLi09RxGU7F8Gj/yg96hQw=",
+  "Hash": "pNXZgnt4ZWXdWWPQMy6WHqDf6HywEh8tlyPAAMfpPIM=",
   "Source": "Litemir_CourseWork",
   "BasePath": "_content/Litemir_CourseWork",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "Litemir_CouseWork_DataBase_Postgres",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],

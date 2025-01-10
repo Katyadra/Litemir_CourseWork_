@@ -149,3 +149,4 @@ D:\Gamedev\Litemir_CourseWork_\Litemir_CouseWork_DataBase_Postgres\obj\Debug\net
 D:\Gamedev\Litemir_CourseWork_\Litemir_CouseWork_DataBase_Postgres\obj\Debug\net8.0\Litemir_CouseWork_DataBase_Postgres.pdb
 D:\Gamedev\Litemir_CourseWork_\Litemir_CouseWork_DataBase_Postgres\obj\Debug\net8.0\Litemir_CouseWork_DataBase_Postgres.genruntimeconfig.cache
 D:\Gamedev\Litemir_CourseWork_\Litemir_CouseWork_DataBase_Postgres\obj\Debug\net8.0\ref\Litemir_CouseWork_DataBase_Postgres.dll
+D:\Gamedev\Litemir_CourseWork_\Litemir_CouseWork_DataBase_Postgres\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

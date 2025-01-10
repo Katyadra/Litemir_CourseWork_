@@ -1,0 +1,2 @@
+D:\Gamedev\Litemir_CourseWork_\Litemir_CouseWork_DataBase_Postgres\obj\Debug\net8.0\staticwebassets.build.json
+D:\Gamedev\Litemir_CourseWork_\Litemir_CouseWork_DataBase_Postgres\obj\Debug\net8.0\staticwebassets.build.json
