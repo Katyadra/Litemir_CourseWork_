@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CourseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BD23D9-0425-4B8C-B156-4A7CA666D1AD}|Litemir_CourseWork.csproj|d:\\gamedev\\litemir_coursework_\\litemir_coursework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1BD23D9-0425-4B8C-B156-4A7CA666D1AD}|Litemir_CourseWork.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BD23D9-0425-4B8C-B156-4A7CA666D1AD}|Litemir_CourseWork.csproj|d:\\gamedev\\litemir_coursework_\\litemir_coursework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1BD23D9-0425-4B8C-B156-4A7CA666D1AD}|Litemir_CourseWork.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BD23D9-0425-4B8C-B156-4A7CA666D1AD}|Litemir_CourseWork.csproj|d:\\gamedev\\litemir_coursework_\\litemir_coursework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BD23D9-0425-4B8C-B156-4A7CA666D1AD}|Litemir_CourseWork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BD23D9-0425-4B8C-B156-4A7CA666D1AD}|Litemir_CourseWork.csproj|d:\\gamedev\\litemir_coursework_\\litemir_coursework\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1BD23D9-0425-4B8C-B156-4A7CA666D1AD}|Litemir_CourseWork.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\migrations\\20250110161844_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\configurations\\workconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\configurations\\chapterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\models\\workentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\models\\chapterentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\litemir_cousework_database_postgres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6283A3B1-45C2-4743-A04D-5D4D8448FF12}|..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj|d:\\gamedev\\litemir_coursework_\\litemir_cousework_database_postgres\\learningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CourseWork\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CourseWork\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T15:59:41.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250110161844_initial.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Migrations\\20250110161844_initial.cs",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\Migrations\\20250110161844_initial.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Migrations\\20250110161844_initial.cs",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\Migrations\\20250110161844_initial.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:26:04.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\Program.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Program.cs",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:38:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChapterConfiguration.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\ChapterConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\ChapterConfiguration.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\ChapterConfiguration.cs",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\ChapterConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:14:42.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkConfiguration.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\WorkConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\WorkConfiguration.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\WorkConfiguration.cs",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\WorkConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:14:28.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:33:56.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Litemir_CouseWork_DataBase_Postgres",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T14:31:27.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LearningDbContext.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\LearningDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\LearningDbContext.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\LearningDbContext.cs",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\LearningDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:31:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChapterEntity.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Models\\ChapterEntity.cs",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\Models\\ChapterEntity.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Models\\ChapterEntity.cs",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\Models\\ChapterEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:23:21.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkEntity.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Models\\WorkEntity.cs",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\Models\\WorkEntity.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Models\\WorkEntity.cs",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\Models\\WorkEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:22:38.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Models\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\Litemir_CouseWork_DataBase_Postgres\\Models\\UserEntity.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Models\\UserEntity.cs",
+              "RelativeToolTip": "..\\Litemir_CouseWork_DataBase_Postgres\\Models\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:18:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CourseWork\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CourseWork\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T14:14:42.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CourseWork\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CourseWork\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T14:14:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CourseWork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CourseWork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:14:07.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

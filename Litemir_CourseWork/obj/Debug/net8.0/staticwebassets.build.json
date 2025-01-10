@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "ys2gP/9JwDLiuAN8hQecCtLi09RxGU7F8Gj/yg96hQw=",
+  "Source": "Litemir_CourseWork",
+  "BasePath": "_content/Litemir_CourseWork",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Gamedev\\Litemir_CourseWork_\\Litemir_CouseWork_DataBase_Postgres\\Litemir_CouseWork_DataBase_Postgres.csproj",
+      "Version": 2,
+      "Source": "Litemir_CouseWork_DataBase_Postgres",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
